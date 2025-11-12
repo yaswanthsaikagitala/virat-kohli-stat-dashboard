@@ -23,8 +23,12 @@ This Power BI dashboard is a tribute to the legendary career of **Virat Kohli**,
   - Joined with `FormatImages` using Power Query M code
   - Dynamic image rendering via `ImageURL` column categorized as `Image URL`
 
-  ## 📊 ODI Performance Overview
+## 📊 ODI Performance Overview
 ![Virat Kohli ODI Dashboard](https://github.com/yaswanthsaikagitala/virat-kohli-stat-dashboard/blob/main/vkodi_page-0001.jpg?raw=true)
+## 📊 Test Performance Overview
+![Virat Kohli Test Dashboard](https://github.com/yaswanthsaikagitala/virat-kohli-stat-dashboard/blob/main/Screenshot%202025-11-12%20171304.png?raw=true)
+
+## 📊 T20I Performance Overview
 
 ---
 
