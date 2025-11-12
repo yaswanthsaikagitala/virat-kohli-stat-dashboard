@@ -29,7 +29,7 @@ This Power BI dashboard is a tribute to the legendary career of **Virat Kohli**,
 ![Virat Kohli Test Dashboard](https://github.com/yaswanthsaikagitala/virat-kohli-stat-dashboard/blob/main/Screenshot%202025-11-12%20171304.png?raw=true)
 
 ## 📊 T20I Performance Overview
-
+![Virat Kohli T20I Dashboard](https://github.com/yaswanthsaikagitala/virat-kohli-stat-dashboard/blob/main/Screenshot%202025-11-12%20171238.png?raw=true)
 ---
 
 ## 🔧 Power Query Snippets
